@@ -1216,6 +1216,14 @@ video {
   padding-bottom: 5rem;
 }
 
+.pb-\[150px\] {
+  padding-bottom: 150px;
+}
+
+.pt-\[75px\] {
+  padding-top: 75px;
+}
+
 .text-center {
   text-align: center;
 }
