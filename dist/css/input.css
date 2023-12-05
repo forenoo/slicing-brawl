@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btnPrimary {
+    @apply bg-primary tracking-wide text-white font-medium rounded-[4px] py-[15px] px-[26px] w-fit text-[14px];
+  }
+}
+
+@layer utilities {
+  .shadowActive {
+    box-shadow: 0px 0px 60px rgba(0, 0, 0, 0.2);
+  }
+  .shadowCard {
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.05);
+  }
+}
+
+.maxContainer {
+  @apply max-w-7xl mx-auto;
+}
+
+.paddingContainer {
+  @apply px-6 lg:px-10 3xl:px-0;
+}
+
+.nav-active {
+  @apply flex;
+}
