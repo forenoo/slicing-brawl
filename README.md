@@ -1,12 +1,3 @@
-# Liga SMK 2023
-
-Selamat datang di repositori Liga SMK 2023, saya menggunakan Tailwind CSS, HTML5, dan Sedikit Javascript
-
-## Identitas
-
-- Nama: Foreno Faisal Fahri
-- Asal Sekolah: SMK Negeri 8 Malang
-
 ## Kebutuhan
 
 Sebelum Anda dapat mulai mengerjakan proyek ini, pastikan Anda telah menginstal Tailwind CSS. Ikuti langkah-langkah di bawah ini untuk menginstalnya:
